@@ -1,0 +1,21 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: postgres
+  password: password
+  host: localhost
+
+development:
+  <<: *default
+  database: goldmine2_development
+
+test:
+  <<: *default
+  database: goldmine2_test
+
+production:
+  <<: *default
+  database: goldmine2_production
+  # username: goldmine2
+  # password: <%= ENV['GOLDMINE2_DATABASE_PASSWORD'] %>
