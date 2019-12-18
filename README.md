@@ -1,24 +1,8 @@
-# README
+# **Goldmine**
+A directory of Hip Hop production samples.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Coded in: Ruby on Rails
 
-Things you may want to cover:
+Visit the app at: https://arts-goldmine2.herokuapp.com/records/new
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Users ability to freely add to directory.
