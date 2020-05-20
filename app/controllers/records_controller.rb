@@ -19,5 +19,3 @@ class RecordsController < ApplicationController
     params.require(:record).permit(:name, :description, :title)
   end
 end
-
-
