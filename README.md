@@ -1,5 +1,5 @@
 # **Goldmine**
-A directory of Hip Hop production samples.
+A directory of Hip Hop and inspirational poetry quotations.
 
 Coded in: Ruby on Rails
 
