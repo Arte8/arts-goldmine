@@ -1,8 +1,7 @@
 <% @records.each do |record| %>
   <div class="booyah-box col-10 offset-1">
-    <h1><%= record.name %></h1>
-    <i><%= record.title %></i><br /><br />
-    <p><%= record.description %></p><br />
+    <h1>Artist: <%= record.name %></h1>
+    <i>Title: <%= record.title %></i><br /><br />
+    <p>Lyric: %= record.description %></p><br />
   </div>
 <% end %>
-
