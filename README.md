@@ -6,4 +6,4 @@ Coded in: Ruby on Rails CSS, and HTML.
 Visit the app at: https://arts-goldmine2.herokuapp.com/
 
 * Users ability to freely add to directory.
-* main page lists name of artist, title and quotation.
+* main page simply lists name of artist, title and quotation.
