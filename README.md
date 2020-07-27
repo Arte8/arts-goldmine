@@ -1,4 +1,4 @@
-# **Goldmine**
+# **Goldmine** duel of the iron mics
 A directory of Hip Hop and inspirational poetry quotations.
 
 Coded in: Ruby on Rails CSS, and HTML.
