@@ -1,7 +1,7 @@
 # **Goldmine**: duel of the iron mics
 A directory of Hip Hop and inspirational poetry quotations.
 
-Coded in: Ruby on Rails CSS, javascript, and HTML.
+Coded in: Ruby on Rails CSS, javascript, and HTML, CSS.
 
 Visit the app at: https://arts-goldmine2.herokuapp.com/
 
